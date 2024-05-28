@@ -1,0 +1,28 @@
+{
+    "noticias": [
+      {
+        "id": 1,
+        "titulo": "Faculdade UNIESP lança novo programa de bolsas de estudo",
+        "subtitulo": "Oportunidade para estudantes de baixa renda",
+        "texto": "A Faculdade UNIESP anunciou hoje o lançamento de um novo programa de bolsas de estudo, destinado a estudantes de baixa renda que desejam ingressar no ensino superior. O programa oferecerá bolsas integrais e parciais para diversos cursos de graduação, com o objetivo de promover a inclusão e facilitar o acesso à educação de qualidade."
+      },
+      {
+        "id": 2,
+        "titulo": "UNIESP inaugura laboratório de pesquisa em inteligência artificial",
+        "subtitulo": "Avanços tecnológicos na área da computação",
+        "texto": "A Faculdade UNIESP inaugurou hoje um novo laboratório de pesquisa em inteligência artificial, equipado com tecnologia de ponta e recursos avançados de computação. O laboratório será utilizado por alunos e pesquisadores para desenvolver projetos inovadores e contribuir para o avanço da ciência e da tecnologia no país."
+      },
+      {
+        "id": 3,
+        "titulo": "Alunos da UNIESP participam de competição internacional de engenharia",
+        "subtitulo": "Representando a instituição em evento internacional",
+        "texto": "Um grupo de alunos da Faculdade UNIESP está participando esta semana de uma competição internacional de engenharia, que reúne estudantes de diversas partes do mundo. Os alunos representam a instituição em diferentes categorias, como robótica, engenharia civil e engenharia elétrica, e esperam trazer bons resultados para casa."
+      },
+      {
+        "id": 4,
+        "titulo": "UNIESp promove semana de palestras sobre empreendedorismo",
+        "subtitulo": "Incentivando o espírito empreendedor entre os alunos",
+        "texto": "A Faculdade UNIESP está promovendo esta semana uma série de palestras e workshops sobre empreendedorismo, com o objetivo de incentivar o espírito empreendedor entre os alunos. O evento conta com a participação de empreendedores de sucesso, que compartilham suas experiências e dicas para os futuros empresários."
+      }
+    ]
+  }

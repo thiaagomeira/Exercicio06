@@ -1,0 +1,28 @@
+.AppBar {
+  background-color: #20232a;
+}
+
+.Toolbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Button {
+  color: #ffffff;
+  margin-left: 10px;
+  text-transform: none;
+  font-weight: 400;
+}
+
+.Button-home {
+  color: #ffffff;
+  margin-right: auto;
+}
+
+.Button:hover {
+  background-color: #33383b;
+}
+
+.active {
+  background-color: #33383b;
+}
