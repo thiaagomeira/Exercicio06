@@ -12,9 +12,9 @@ Este repositório é dedicado à disciplina Front-end III do curso de Sistemas p
 #### Exercício 01:
 Crie um BrowserRouter através de React Router no componente principal do seu projeto React.
 - Vamos simular alguns links do site da uniesp:
-- https://www.iesp.edu.br/institucional/a-faculdade
-- https://www.iesp.edu.br/institucional/dpo-lgpd
-- https://www.iesp.edu.br/noticias• Crie Rotas para simularmos cada um dessesitens.
+- "https://www.iesp.edu.br/institucional/a-faculdade"
+- "https://www.iesp.edu.br/institucional/dpo-lgpd"
+- "https://www.iesp.edu.br/noticias• Crie Rotas para simularmos cada um dessesitens."
 - O conteúdo de cada uma das páginasfaremos nos próximos exercícios.
 - Por enquanto vamos deixar apenas um<h1> como o título que diferencia cadapágina/componente.
 
